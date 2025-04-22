@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "991927031085",
+    "firebase_url": "https://empettoy-default-rtdb.firebaseio.com",
+    "project_id": "empettoy",
+    "storage_bucket": "empettoy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991927031085:android:e7bc545605ad77c8bfafa4",
+        "android_client_info": {
+          "package_name": "com.empat.tech.toyvalley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8H5sq7uhNDSPNuy0e2HdHBvS1lg81hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
